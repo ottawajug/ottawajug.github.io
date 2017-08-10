@@ -1,6 +1,6 @@
 ![Ottawa JUG logo](ottawa_jug_256.png "Ottawa JUG")
 
-# Welcome to Ottawa Java User Group
+# Ottawa Java User Group
 
 ### Meetups
 
