@@ -2,16 +2,16 @@
 
 # Welcome to Ottawa Java User Group
 
-Join us on [meetup.com](https://meetup.com "https://meetup.com")
+### Meetups
 
-See you soon on our meetups!
+Join us on [meetup.com](https://meetup.com "https://meetup.com")
 
 ### Presentation Slides
 
-You can find slides from presentations on [Speaker Deck](https://speakerdeck.com/ottawajug "https://speakerdeck.com/ottawajug")
+Find slides from our presentations on [Speaker Deck](https://speakerdeck.com/ottawajug "https://speakerdeck.com/ottawajug") 
 
 ### Contacts
 
-- meetup: [https://meetup.com](https://meetup.com)
-- twitter: [https://twitter.com/ottawajug](https://twitter.com/ottawajug)
-- gitter: [https://gitter.im/ottawajug](https://gitter.im/ottawajug)
+Follow our [Twitter](https://twitter.com/ottawajug "https://twitter.com/ottawajug")
+
+Join our [Gitter](https://gitter.im/ottawajug "https://gitter.im/ottawajug")
