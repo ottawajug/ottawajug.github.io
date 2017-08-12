@@ -2,6 +2,8 @@
 
 # Ottawa Java User Group
 
+The goal of Ottawa Java User Group is to inform our members about the modern Java ecosystem and learn from each other.
+
 ### Meetups
 
 Join us on [meetup.com](https://meetup.com "https://meetup.com")
