@@ -6,7 +6,7 @@ The goal of Ottawa Java User Group is to inform our members about the modern Jav
 
 ### Meetups
 
-Join us on [meetup.com](https://meetup.com "https://meetup.com")
+Join us on [meetup.com](https://www.meetup.com/Ottawa-Java-User-Group/ "https://www.meetup.com/Ottawa-Java-User-Group/")
 
 ### Presentation Slides
 
@@ -15,5 +15,3 @@ Find slides from our presentations on [Speaker Deck](https://speakerdeck.com/ott
 ### Contacts
 
 Follow our [Twitter](https://twitter.com/ottawajug "https://twitter.com/ottawajug")
-
-Join our [Gitter](https://gitter.im/ottawajug "https://gitter.im/ottawajug")
